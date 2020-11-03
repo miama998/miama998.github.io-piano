@@ -9,14 +9,17 @@ layout: default
 Pls email miamamusicmaker ( the magical at sign ) gmail.com
 for details
 
-#$100 / Lesson Plan
+## 100 per Lesson Plan
+
 10 lessons / 4 months (pre-paid = 100 x 10 = $1000 per term)
 No cancellation fee, no reschedule fee 
 
-#$80 / Lesson Plan
+## 80 per Lesson Plan
+
 12 lessons / 4 months (pre-paid = 80 x 12 = $960 per term) , 48 hr cancellation / reschedule notice , or the fee is non-refundable / transferrable
 
 #( Affected by COVID ) Special events...
+
 Play in the forest
 Play by the river
  
@@ -27,7 +30,8 @@ Play by the river
 | Level 1-9    | Level 1-9         | $300 + 50/hr  |
 
 
-#Half Price if you are learning...
+# Half Price if you are learning...
+
 Thompson 1 because it's easy
 Canon in D because it's gonna be useful at your friends' wedding
 
