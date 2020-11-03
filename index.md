@@ -4,13 +4,13 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](https://www.google.com/maps/place/1055+Bay+St,+Toronto,+ON+M5S+3A3/@43.6668191,-79.3898132,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34b1a33d1f43:0x4deb37f48a13dc2!8m2!3d43.6668152!4d-79.3876245).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+#Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
