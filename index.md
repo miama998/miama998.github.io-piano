@@ -13,21 +13,24 @@ for details
 
 ## CAD100 per Lesson Plan
 
-10 lessons / 4 months (pre-paid = 100 x 10 = $1000 per term)
+* 10 lessons / 4 months (pre-paid = 100 x 10 = $1000 per term)
 
-No cancellation fee, no reschedule fee 
+* No cancellation fee, no reschedule fee 
 
 ## CAD80 per Lesson Plan
 
-12 lessons / 4 months (pre-paid = 80 x 12 = $960 per term) 
+* 12 lessons / 4 months (pre-paid = 80 x 12 = $960 per term) 
 
-48 hr cancellation / reschedule notice , or the fee is non-refundable / transferrable
+* 48 hr cancellation / reschedule notice , or the fee is non-refundable / transferrable
 
-#( Affected by COVID ) Special events...
+# ( Affected by COVID ) Special events...
 
-Play in the forest
+* Play in the forest
 
-Play by the river
+* Play by the river
+
+
+
  
 # Topics Offered
 
@@ -36,16 +39,19 @@ Play by the river
 | Level 1-9    | Level 1-9         | $300 + 50/hr  |
 
 
+
+
 # Half Price if you are learning...
 
-Thompson 1 because it's easy
-Canon in D because it's gonna be very useful
+* Thompson 1 because it's easy
 
-###This section is important because my mom is mentioned
+* Canon in D because it's gonna be very useful
+
+### This section is important because my mom is mentioned
 
 <dl>
 <dt> My Mom </dt>
-<dd>For all the mental support throughout the years to make me someone who can bring light to other people's life :)</dt>
+<dd>For all the mental support throughout the years to make me someone who can bring light to other people's life :)</dd>
 <dt> Wilson Wang </dt>
 <dd>Many thanks to my husband Wilson who taught me how to put this website together</dd>
 </dl>
