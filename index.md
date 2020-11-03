@@ -18,6 +18,7 @@ for details
 * 10 lessons / 4 months (pre-paid = 100 x 10 = $1000 per term)
 
 
+
 ## CAD80 per Lesson Plan
 
 * 12 lessons / 4 months (pre-paid = 80 x 12 = $960 per term) 
@@ -27,7 +28,6 @@ for details
 
 * Flexible schedule
 
-* Pop Music and < Level 9 Material Only 
 
 
 
