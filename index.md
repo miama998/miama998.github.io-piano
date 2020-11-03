@@ -20,7 +20,8 @@ No cancellation fee, no reschedule fee
 Play in the forest
 Play by the river
  
-#Topics Offered
+# Topics Offered
+
 | Music Theory | Piano Playing     | Wedding       |
 |:-------------|:------------------|:--------------|
 | Level 1-9    | Level 1-9         | $300 + 50/hr  |
