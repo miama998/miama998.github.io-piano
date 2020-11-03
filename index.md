@@ -8,18 +8,27 @@ Pls email miamamusicmaker ( the magical at sign ) gmail.com
 for details
 
 # Lesson Plans
+fees will be refunded if a lesson is skipped
+
 
 ## CAD100 per Lesson Plan
 
 * 10 lessons / 4 months (pre-paid = 100 x 10 = $1000 per term)
 
-* No cancellation fee, no reschedule fee 
 
 ## CAD80 per Lesson Plan
 
 * 12 lessons / 4 months (pre-paid = 80 x 12 = $960 per term) 
 
-* 48 hr cancellation / reschedule notice , or the fee is non-refundable / transferrable
+
+## CAD40 Introductory Lessons (Adults Only)
+
+* Flexible schedule
+
+* Pop Music and < Level 9 Material Only 
+
+
+
 
 # Special events...
 
@@ -27,26 +36,23 @@ for details
 
 * Play by the river
 
+* Learn one piece in one day
+
 
 
  
 # Topics Offered
 
-| Music Theory | Piano Playing     |    Wedding         |
-|:-------------|:------------------|:-------------------|
-| Level 1-9    | Level 1-9         | Whatever you need  |
+| Music Theory | Piano Playing     |    Wedding              |
+|:-------------|:------------------|:------------------------|
+| Level 1-9    | Level 1-9         | 10 songs of your choice |
 
 
 
 
-# Half Price if you are learning...
 
-* Thompson 1 because it's easy
 
-* Canon in D because it's gonna be very useful
-
-### This section is important because my mom is mentioned
-
+# And thanks to 
 <dl>
 <dt> My Mom </dt>
 <dd>For all the mental support throughout the years to make me someone who can bring light to other people's life :)</dd>
