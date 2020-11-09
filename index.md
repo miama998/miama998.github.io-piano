@@ -13,15 +13,15 @@ for details
 
 # Lesson Plans
 
-## CAD100 per Lesson Plan
+## CAD60 per Lesson Plan
 
-* 10 lessons / 4 months (pre-paid = 100 x 10 = $1000 per term)
+* 10 lessons / 4 months (pre-paid = 60 x 10 = $600 per term)
 
 
 
-## CAD80 per Lesson Plan
+## CAD50 per Lesson Plan
 
-* 12 lessons / 4 months (pre-paid = 80 x 12 = $960 per term) 
+* 16 lessons / 4 months (pre-paid = 50 x 16 = $800 per term) 
 
 
 ## CAD40 Introductory Lessons (Beginners Only)
