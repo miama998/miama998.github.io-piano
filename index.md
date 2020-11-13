@@ -13,21 +13,20 @@ for details
 
 # Lesson Plans
 
-## CAD60 per Lesson Plan
+## Flexible
 
-* 10 lessons / 4 months (pre-paid = 60 x 10 = $600 per term)
-
-
-
-## CAD50 per Lesson Plan
-
-* 16 lessons / 4 months (pre-paid = 50 x 16 = $800 per term) 
+* 10 lessons / 4 months 
 
 
-## CAD40 Introductory Lessons (Beginners Only)
 
-* Flexible schedule
+## Fixed
 
+* 16 lessons / 4 months 
+
+
+## Introductory (Beginners Only)
+
+* Fundamental Knowledge About Piano, and Music Theory
 
 
 
@@ -47,7 +46,7 @@ for details
 
 | Music Theory | Piano Playing     |    Wedding               |
 |:-------------|:------------------|:-------------------------|
-| Level 1-9    | Level 1-9         | CAD 400 + n x 50         |
+| Level Prep-10| Level Prep-10     | Whatever You Need :)     |
 
 
 
@@ -56,6 +55,10 @@ for details
 
 # And Thanks to 
 <dl>
+<dt> My Lovely Students</dt>
+<dd> For the brilliant sparkles and of course all of that hardwork day and night</dd>
+<dt> My Dearly Friends</dt>
+<dd>For all the support when I hesitated about anything</dd>
 <dt> My Mom </dt>
 <dd>For all the mental support throughout the years to make me someone who can bring light to other people's life :)</dd>
 <dt> Wilson Wang </dt>
